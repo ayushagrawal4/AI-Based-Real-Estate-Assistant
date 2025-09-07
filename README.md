@@ -2,17 +2,6 @@
 
 A user-friendly web application developed using Streamlit that enables fast and insightful real estate research. Users can enter news article URLs and ask questions to receive answers grounded in the actual content using RAG (Retrieval-Augmented Generation). Though focused on real estate, this tool can be extended to any domain with textual sources.
 
----
-
-## 🌐 Live Website
-You can try the tool live here: **[Real Estate Research Tool](https://vaibhav-project-real-estate-research-tool.streamlit.app/)**
-
----
-
-## 🎥 Presentation
-Watch the full project presentation here: **[Real Estate Research Tool Presentation](https://vaibhav-projects.my.canva.site/real-estate-research-tool)**
-
----
 
 ## 🛠 Features  
 - Visually enhanced and interactive UI built with Streamlit. 
